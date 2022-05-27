@@ -35,7 +35,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Temesgen Ayneka**
 
 - GitHub: [@TemesgenA](https://github.com/TemesgenA)
 - Twitter: [@Temesgen_Ayneka](https://twitter.com/Temesgen_Ayneka)
